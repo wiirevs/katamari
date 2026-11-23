@@ -1,0 +1,22 @@
+{
+  "game": "Katamari Damacy",
+  "wikidata": "Q1206519",
+  "original": [
+    {
+      "region": "USA",
+      "revision": "SLUS-21008"
+    }
+  ],
+  "system": "PlayStation 2",
+  "type": "recomp",
+  "status": "released",
+  "targets": ["Wii"],
+  "toolchain": "WiiRevs",
+  "project": "Katamari Damacy for Wii",
+  "approach": "PlayStation 2 Emotion Engine program, VU0 and VU1 microprograms statically translated to C; the graphics drawn natively by GX and the sound mixed on the Wii",
+  "notes": "Runs natively on a real Wii, launched with the Homebrew Channel. Sideways Wii Remote with tilt and shake controls, or a Classic Controller as the DualShock; rumble; widescreen; 480p.",
+  "tags": ["namco", "puzzle", "wii"],
+  "maintainers": [{ "name": "WiiRevs", "link": "https://wiirevs.com" }],
+  "links": [{ "label": "WiiRevs", "url": "https://wiirevs.com" }],
+  "launchers": [{ "path": "katamari.zip", "in": "release", "format": "zip" }]
+}
