@@ -21,7 +21,7 @@ WiiRevs doesn't include or link to any game files. You need the US release of Ka
 
 ## Controls
 
-Hold the Wii Remote sideways, D-pad on the left. Tilt it forward or back to roll, twist it to turn, and use the D-pad to roll sideways. Shake once for a Quick Turn, again and again for Charge'n'Roll. 1 looks, 2 jumps, A confirms, B goes back, + pauses. A Classic Controller works as the DualShock. HOME opens the menu: grip, tilt, rumble, widescreen, volume.
+Hold the Wii Remote sideways, D-pad on the left. Tilt it forward or back to roll, twist it to turn, and use the D-pad to roll sideways. Shake once for a Quick Turn, again and again for Charge'n'Roll. 1 looks, 2 jumps, A confirms, B goes back, + pauses. A Classic Controller works as the DualShock, and so does a Wii U Pro Controller: click both sticks for a Quick Turn. HOME opens the menu: grip, tilt, rumble, widescreen, volume.
 
 ## Feedback
 
