@@ -19,6 +19,8 @@ WiiRevs doesn't include or link to any game files. You need the US release of Ka
 3. Copy the disc image into `sd:/wiirevs/katamari/` as `Katamari Damacy (USA).iso`, and copy `SLUS_210.08` from the disc next to it.
 4. Start Katamari Damacy from the Homebrew Channel.
 
+No room on the card? The game's folder can go on a USB drive instead, as `usb1:/wiirevs/katamari/` (the app stays on the SD card). When both have it, the SD card's is used.
+
 ## Controls
 
 Hold the Wii Remote sideways, D-pad on the left. Tilt it forward or back to roll, twist it to turn, and use the D-pad to roll sideways. Shake once for a Quick Turn, again and again for Charge'n'Roll. 1 looks, 2 jumps, A confirms, B goes back, + pauses. A Classic Controller works as the DualShock, with A for ✕ (confirm) and B for ○ (back), and so does a Wii U Pro Controller: click both sticks for a Quick Turn. HOME opens the menu: grip, tilt, rumble, widescreen, volume.
